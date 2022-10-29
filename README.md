@@ -15,5 +15,9 @@ Tracing http request with Jaeger.
 
 ![Logo](https://github.com/mertcakmak2/GoLang-Jaeger/blob/services/trace-services.png) 
 
+## Tracing
 
+[Monolithic App Branch](https://github.com/mertcakmak2/GoLang-Jaeger/tree/master)
+
+[Microservice App Branch](https://github.com/mertcakmak2/GoLang-Jaeger/tree/services)
 
